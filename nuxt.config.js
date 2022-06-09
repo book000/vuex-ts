@@ -25,7 +25,7 @@ export default {
 
   components: true,
 
-  buildModules: ["@nuxt/typescript-build", "@nuxtjs/vuetify"],
+  buildModules: ["@nuxt/typescript-build", "@nuxtjs/vuetify", "nuxt-typed-vuex"],
 
   modules: [],
 
