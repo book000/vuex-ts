@@ -40,5 +40,9 @@ export default {
 
   generate: {
     dir: "docs"
+  },
+
+  router: {
+    base: "/vuex-ts/",
   }
 };
