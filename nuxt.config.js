@@ -37,4 +37,8 @@ export default {
   },
 
   build: {},
+
+  generate: {
+    dir: "docs"
+  }
 };
