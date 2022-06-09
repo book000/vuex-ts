@@ -21,7 +21,7 @@ export default {
 
   css: [],
 
-  plugins: [],
+  plugins: [{ src: "~/plugins/counter", ssr: false }],
 
   components: true,
 
